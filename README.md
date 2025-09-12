@@ -1,3 +1,3 @@
 # test-repo-public
 
-test local2
+test local
